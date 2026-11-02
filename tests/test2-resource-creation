@@ -1,0 +1,11 @@
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Location: /api/resources/2701bb0b-b955-43ab-a916-927d3cd2f2c5
+Content-Type: application/json; charset=utf-8
+Content-Length: 96
+ETag: W/"60-BNTDRimi2XW1z4+JvTLmCQHTlvs"
+Date: Mon, 02 Nov 2026 04:29:53 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"id":"2701bb0b-b955-43ab-a916-927d3cd2f2c5","name":"First task","description":"Testing my API"}
